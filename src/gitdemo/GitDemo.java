@@ -4,13 +4,13 @@ package gitdemo;
  *
  * @author Rich Smith at ZenOfProgramming.com
  */
-public class GitDemo 
+public class GitDemo
 {
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) 
-    {
-        
-    }
+   /**
+    * @param args the command line arguments
+    */
+   public static void main (String[] args)
+   {
+      System.out.println("Hello World");
+   }
 }
